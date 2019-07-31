@@ -1,15 +1,3 @@
 {
-  "tileType": "sap.sf.homepage3.tiles.DynamicTile",
-  "properties": [
-    "title": "Stock Price",
-    "subtitle": "Best Run Company",
-    "numberValue": "8.67",
-    "numberState": "Positive",
-    "numberDigits": 2,
-    "stateArrow": "Up",
-    "numberFactor": "$",
-    "icon": "sap-icon://line-chart",
-    "info": "NASDAQ",
-    "subinfo": "BSTR"
-  ]
+  "tile":"POC"
 }
