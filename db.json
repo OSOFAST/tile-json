@@ -1,6 +1,5 @@
 {
-  "tileType":
-"sap.sf.homepage3.tiles.DynamicTile",
+  "tileType": "sap.sf.homepage3.tiles.DynamicTile",
   "properties": {
     "title": "Stock Price",
     "subtitle": "Best Run Company",
@@ -12,4 +11,5 @@
     "icon": "sap-icon://line-chart",
     "info": "NASDAQ",
     "subinfo": "BSTR"
-} }
+  } 
+}
